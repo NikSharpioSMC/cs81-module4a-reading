@@ -1,3 +1,7 @@
+//Nik Sharpio
+//Santa Monica College - Summer 2025 - CS81 
+//Module 4 Assignment 4A: Review readingTracker.js
+
 # Code Structure Reflection
 
 ## What was the most helpful aspect of this code's structure?
